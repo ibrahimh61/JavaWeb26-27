@@ -8,7 +8,7 @@ class Main {
 
   void init(){
    
-    System.out.println("hello world.");
+    System.out.println("I am hungry - A famous quote by me");
   }
 
 
