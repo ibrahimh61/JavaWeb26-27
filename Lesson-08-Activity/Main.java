@@ -1,3 +1,4 @@
+
 class Main {
 
 	public static void main(String[] args) {
@@ -27,16 +28,16 @@ double distance(double x1, double y1, double x2, double y2) {
   void init(){
 	    print("Test");
 
-    double celsius = FtoC(100);
+    double celsius = FtoC(90);
     System.out.println(celsius);
 
-    double sphere = sphereVolume(5);
+    double sphere = sphereVolume(7);
     System.out.println(sphere);
 
-    double cone = coneVolume(5, 10);
+    double cone = coneVolume(20, 10);
     System.out.println(cone);
 
-    double dist = distance(1, 2, 4, 6);
+    double dist = distance(17, 24, 49, 67);
     System.out.println(dist);
   }
 }
