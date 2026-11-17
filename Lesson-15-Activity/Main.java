@@ -9,10 +9,12 @@ class Main {
 
   void init(){
 
+     
     
-    
-  }
 
-
+for(int N = 0; N<= ; N++;){
+first = second
+second = NextFib
+NextFib = first + second
   
 }

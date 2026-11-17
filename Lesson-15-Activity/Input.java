@@ -43,6 +43,14 @@ class Input{
             e.printStackTrace();
         }
     }
+
+      }
+  String spaces(int N)
+    String bld ="";
+    for(int x= 0; x<N; x++){
+        build += "";
+    }
+
     /*
     public static ArrayList<Row> readCSV(String fn){
         ArrayList<Row> data =  new ArrayList<>();
